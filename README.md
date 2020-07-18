@@ -9,4 +9,4 @@ My Self
 > Try3!
 ## Trying all
 
-[Kittu](Kittu.com)
+Visit my Instagram page
