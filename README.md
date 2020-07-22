@@ -7,5 +7,5 @@ To run a sketch change the following code present in index.html file.
 <script src="sketch_name.js"></script> 
 <!--this will run sketch_name.js -->
 ```
-# CartoonNetwork
-![Cartoon Network](images/cartoon-network.jpg)
+# Gallery
+<img src="images/cartoon-network.jpg" width="150" />
