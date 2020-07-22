@@ -8,4 +8,4 @@ To run a sketch change the following code present in index.html file.
 <!--this will run sketch_name.js -->
 ```
 # Gallery
-<img src="images/cartoon-network.jpg" width="250" />
+<img src="images/cartoon-network.jpg" width="350" />
