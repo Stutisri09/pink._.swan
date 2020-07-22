@@ -1,15 +1,11 @@
 # pink._.swan
-This repository is containing my Sketches, Mandala art and p5.js projects.
-# pink._.swan
-```
-My Self
-```
-- [X] Try1!
-- [ ] Try2!
-> Try3!
-## Trying all
+This repository is containing my sketches, mandala art and p5.js projects.
 
-[Visit my Instagram page](https://instagram.com/pink._.swan?igshid=cuk99b1qxzp3)
-
+# How to run a sketch
+To run a sketch change the following code present in index.html file.
+``` html
+<script src="sketch_name.js"></script> 
+<!--this will run sketch_name.js -->
+```
 # CartoonNetwork
-![CN](PicsArt_05-19-10.58.39.jpg)
+![Cartoon Network](images/cartoon-network.jpg)
